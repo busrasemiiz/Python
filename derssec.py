@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jan 10 22:06:04 2021
 
-@author: Büşra Semiz
-"""
 siniflistesi= ["ayşe yılmaz", "ahmet öz", "engin demirog"]
 derslistesi= ["java","c#", "ml", "deep learning","python"]
 
